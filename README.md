@@ -100,4 +100,4 @@ Este é um programa educacional que demonstra o funcionamento do algoritmo AES (
 
 ## 🤝 Contribuição
 
-Este é um programa educacional para demonstrar conceitos de criptografia. Sugestões e melhorias são bem-vindas!
+Este é um programa acadêmico para demonstrar conceitos de criptografia. Sugestões e melhorias são bem-vindas!
